@@ -92,5 +92,5 @@ Q-AdConnect/
 * Multi-language support
 * Integration with external ad performance tracking APIs
 
- License
+## License
 This project is for educational purposes.
